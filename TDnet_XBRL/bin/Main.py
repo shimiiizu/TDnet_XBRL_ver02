@@ -11,6 +11,7 @@
 ✅データベースから情報を読み出し bs_db_extractor.py
 ✅グラフを作成する　bs_graph_creator.py
 -(Webに)情報を表示 bs_viewer.py
+
 """
 import os
 import xbrlfile_folder_creater
